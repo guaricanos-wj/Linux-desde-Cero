@@ -1,2 +1,2 @@
-#Día 2 linux desde cero
+# Día 2 linux desde cero
 
